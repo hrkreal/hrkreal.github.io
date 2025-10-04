@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+My name is H Rainak Khan Real and I am currently pursuing my PhD in Geography at [The Ohio State University](https://geography.osu.edu/). As a Graduate Teaching Associate in the Department of Geography, I support teaching and mentoring, with a primary emphasis on Remote Sensing and GIS courses. In the summer of 2025, I worked as a Research Associate in the School of Earth Sciences, where I conducted research under the supervision of [Dr. Alex Michaud](https://earthsciences.osu.edu/people/michaud.58). 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Beyond academics, I am actively engaged in student leadership and service. I represent the PhD students as a Graduate Studies Representative in the [Geography Graduate Organization](https://activities.osu.edu/involvement/student_organizations/find_a_student_org?i=f511459d-2d01-4c88-bdbe-a7e159ac9df6&l=G&c=Columbus&page=0) and previously served as Treasurer of the [Bangladesh Graduate Student Association](https://activities.osu.edu/involvement/student_organizations/find_a_student_org?i=ba3460b3-cdbb-4009-88af-4686773583cf&l=B&c=Columbus&page=0). 
+
 
 A data-driven personal website
 ======
