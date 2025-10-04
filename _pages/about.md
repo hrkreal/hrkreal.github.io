@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is H Rainak Khan Real and I am currently pursuing my PhD in Geography at [The Ohio State University](https://geography.osu.edu/). As a Graduate Teaching Associate in the Department of Geography, I support teaching and mentoring, with a primary emphasis on Remote Sensing and GIS courses. In the summer of 2025, I worked as a Research Associate in the School of Earth Sciences, where I conducted research under the supervision of [Dr. Alex Michaud](https://earthsciences.osu.edu/people/michaud.58). 
+My name is H Rainak Khan Real and I am currently pursuing my PhD in Geography at [The Ohio State University](https://www.osu.edu/). As a Graduate Teaching Associate in the [Department of Geography](https://geography.osu.edu/), I support teaching and mentoring, with a primary emphasis on Remote Sensing and GIS. In the summer of 2025, I worked as a Research Associate in the School of Earth Sciences, where I conducted research under the supervision of [Dr. Alex Michaud](https://earthsciences.osu.edu/people/michaud.58). 
 
 Beyond academics, I am actively engaged in student leadership and service. I represent the PhD students as a Graduate Studies Representative in the [Geography Graduate Organization](https://activities.osu.edu/involvement/student_organizations/find_a_student_org?i=f511459d-2d01-4c88-bdbe-a7e159ac9df6&l=G&c=Columbus&page=0) and previously served as Treasurer of the [Bangladesh Graduate Student Association](https://activities.osu.edu/involvement/student_organizations/find_a_student_org?i=ba3460b3-cdbb-4009-88af-4686773583cf&l=B&c=Columbus&page=0). 
 
