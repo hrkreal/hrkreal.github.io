@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Estimation of annual rate and spatial distribution of soil erosion in the Jamuna basin using RUSLE model: A geospatial approach"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
